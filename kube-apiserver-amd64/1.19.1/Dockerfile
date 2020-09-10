@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/gcr.io/kube-apiserver-amd64:v1.19.1
+FROM k8s.gcr.io/gcr.io/kube-apiserver:v1.19.1
 MAINTAINER seven.com:seven
