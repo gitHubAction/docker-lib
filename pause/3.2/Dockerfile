@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/pause-amd64:3.2
+FROM k8s.gcr.io/pause-amd64:3.2
 MAINTAINER seven.com:seven
